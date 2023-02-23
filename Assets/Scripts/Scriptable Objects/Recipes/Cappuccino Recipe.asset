@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8cb01ad742e54c8c9ae8f27f18410, type: 3}
+  m_Name: Cappuccino Recipe
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 0}
+  type: 3
+  ingredientType: 10
+  mealType: 11
+  description: Cappuccino Recipe
+  data:
+    Name: Cappuccino Recipe
+    Id: 4
+  matsList:
+  - {fileID: 11400000, guid: 9943b44d64e4b8f47a517f1a5b069c50, type: 2}
+  - {fileID: 11400000, guid: 4fb2f71d2962f8d43bcb82afb9bf38d2, type: 2}
+  output: {fileID: 11400000, guid: bafc3e5c8a25b9a439ebde72f47a7a68, type: 2}

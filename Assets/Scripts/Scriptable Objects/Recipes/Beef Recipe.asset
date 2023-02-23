@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8cb01ad742e54c8c9ae8f27f18410, type: 3}
+  m_Name: Beef Recipe
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 62ce01ddca719d34ea9648c586a7cc94, type: 3}
+  type: 3
+  ingredientType: 10
+  isMeal: 0
+  mealType: 11
+  description: Beef Recipe
+  data:
+    Name: Beef Recipe
+    Id: 1
+  matsList:
+  - {fileID: 11400000, guid: cca8d560ec21f9b469a9c0d292a9c3b2, type: 2}
+  - {fileID: 11400000, guid: 7aab51f11e00872468011e1c035f90f2, type: 2}
+  output: {fileID: 11400000, guid: ef5e2a1f4ebed4a4f9644a56754706a0, type: 2}

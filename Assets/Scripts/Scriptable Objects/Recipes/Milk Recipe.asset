@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8cb01ad742e54c8c9ae8f27f18410, type: 3}
+  m_Name: Milk Recipe
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 0}
+  type: 3
+  ingredientType: 10
+  mealType: 11
+  description: Milk Recipe
+  data:
+    Name: Milk Recipe
+    Id: 16
+  matsList:
+  - {fileID: 11400000, guid: cca8d560ec21f9b469a9c0d292a9c3b2, type: 2}
+  - {fileID: 11400000, guid: f75beac7edcda714f8e9f215e00e1ce1, type: 2}
+  - {fileID: 11400000, guid: 768bbe18f4c6e914ba8e594a7539027c, type: 2}
+  - {fileID: 11400000, guid: 7de2db0e38fd10d49b18621ddbff229b, type: 2}
+  output: {fileID: 11400000, guid: 4fb2f71d2962f8d43bcb82afb9bf38d2, type: 2}

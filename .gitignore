@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Photoshop.meta
+Assets/Photoshop/icons.psb
+Assets/Photoshop/icons.psb.meta
+Assets/Photoshop/icons2.psb
+Assets/Photoshop/icons2.psb.meta
+Assets/Photoshop/Ui.psb
+Assets/Photoshop/Ui.psb.meta

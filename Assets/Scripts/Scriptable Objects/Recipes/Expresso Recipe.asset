@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a8cb01ad742e54c8c9ae8f27f18410, type: 3}
+  m_Name: Expresso Recipe
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 0}
+  type: 3
+  ingredientType: 10
+  mealType: 11
+  description: Expresso Recipe
+  data:
+    Name: Expresso Recipe
+    Id: 10
+  matsList:
+  - {fileID: 11400000, guid: 379d5c6034fcd2648b13af8a8f946265, type: 2}
+  - {fileID: 11400000, guid: 768bbe18f4c6e914ba8e594a7539027c, type: 2}
+  output: {fileID: 11400000, guid: 9943b44d64e4b8f47a517f1a5b069c50, type: 2}
